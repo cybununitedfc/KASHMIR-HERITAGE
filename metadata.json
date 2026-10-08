@@ -1,0 +1,6 @@
+{
+  "name": "Kashmir Heritage — Luxury Handcrafted Pashmina",
+  "description": "Authentic handcrafted Kashmiri Pashmina shawls sourced directly from master artisans in Srinagar, woven from pure Changthangi cashmere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
